@@ -1,6 +1,6 @@
-package com.dauphine.blogger_box_backend.services;
+package com.dauphine.blogger.services;
 
-import com.dauphine.blogger_box_backend.model.Post;
+import com.dauphine.blogger.models.Post;
 import java.util.List;
 import java.util.UUID;
 

@@ -1,12 +1,12 @@
-package com.dauphine.blogger_box_backend.services.impl;
+package com.dauphine.blogger.services.impl;
 
 
-import com.dauphine.blogger_box_backend.exceptions.CategoryNameAlreadyExistsException;
-import com.dauphine.blogger_box_backend.exceptions.CategoryNameNotFoundException;
-import com.dauphine.blogger_box_backend.exceptions.CategoryNotFoundException;
-import com.dauphine.blogger_box_backend.model.Category;
-import com.dauphine.blogger_box_backend.repositories.CategoryRepository;
-import com.dauphine.blogger_box_backend.services.CategoryService;
+import com.dauphine.blogger.exceptions.CategoryNameAlreadyExistsException;
+import com.dauphine.blogger.exceptions.CategoryNameNotFoundException;
+import com.dauphine.blogger.exceptions.CategoryNotFoundException;
+import com.dauphine.blogger.models.Category;
+import com.dauphine.blogger.repositories.CategoryRepository;
+import com.dauphine.blogger.services.CategoryService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,7 +1,7 @@
-package com.dauphine.blogger_box_backend.services;
+package com.dauphine.blogger.services;
 
 
-import com.dauphine.blogger_box_backend.model.Category;
+import com.dauphine.blogger.models.Category;
 
 import java.util.List;
 import java.util.UUID;
